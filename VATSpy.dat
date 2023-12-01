@@ -17995,6 +17995,9 @@ EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
 ESMM|Malmo ACC - Sweden||ESMM
 ESOS|Stockholm ACC - Sweden||ESOS
 ESSR|Stockholm RTC - Sweden||ESOS
+ESOS-K|Stockholm ACC (K) - Sweden|ESOS_K|ESOS-K
+ESOS-N|Stockholm ACC (N) - Sweden|ESOS_N|ESOS-N
+ESOS-3|Stockholm ACC (3) - Sweden|ESOS_3|ESOS-3
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL
 FACA|Cape Town||FACA
